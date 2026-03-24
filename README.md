@@ -51,3 +51,12 @@ Includes a trading backtest:
  **Visualization**  
 - Actual vs Predicted Price Plot  
 - Trading Performance Graph (account value over time)
+
+- 
+## Tech Stack
+
+| Category | Tools / Libraries |
+|-----------|------------------|
+| **Programming Language** | Python 3.10+ |
+| **Data Handling** | pandas, numpy |
+| **Visualization** | matplotlib,
